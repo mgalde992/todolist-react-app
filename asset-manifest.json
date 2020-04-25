@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/mgalde992/todolist-react-app.git/static/css/main.a7e224c4.chunk.css",
-    "main.js": "/mgalde992/todolist-react-app.git/static/js/main.03e3fe0e.chunk.js",
-    "main.js.map": "/mgalde992/todolist-react-app.git/static/js/main.03e3fe0e.chunk.js.map",
-    "runtime~main.js": "/mgalde992/todolist-react-app.git/static/js/runtime~main.b67496dd.js",
-    "runtime~main.js.map": "/mgalde992/todolist-react-app.git/static/js/runtime~main.b67496dd.js.map",
-    "static/js/2.8f7c539e.chunk.js": "/mgalde992/todolist-react-app.git/static/js/2.8f7c539e.chunk.js",
-    "static/js/2.8f7c539e.chunk.js.map": "/mgalde992/todolist-react-app.git/static/js/2.8f7c539e.chunk.js.map",
-    "index.html": "/mgalde992/todolist-react-app.git/index.html",
-    "precache-manifest.8fd195cf8f0959a6409671ef63a19ca3.js": "/mgalde992/todolist-react-app.git/precache-manifest.8fd195cf8f0959a6409671ef63a19ca3.js",
-    "service-worker.js": "/mgalde992/todolist-react-app.git/service-worker.js",
-    "static/css/main.a7e224c4.chunk.css.map": "/mgalde992/todolist-react-app.git/static/css/main.a7e224c4.chunk.css.map",
-    "static/media/logo.svg": "/mgalde992/todolist-react-app.git/static/media/logo.ee7cd8ed.svg"
+    "main.css": "/todolist-react-app/static/css/main.a7e224c4.chunk.css",
+    "main.js": "/todolist-react-app/static/js/main.73729d7f.chunk.js",
+    "main.js.map": "/todolist-react-app/static/js/main.73729d7f.chunk.js.map",
+    "runtime~main.js": "/todolist-react-app/static/js/runtime~main.360bb7b5.js",
+    "runtime~main.js.map": "/todolist-react-app/static/js/runtime~main.360bb7b5.js.map",
+    "static/js/2.8f7c539e.chunk.js": "/todolist-react-app/static/js/2.8f7c539e.chunk.js",
+    "static/js/2.8f7c539e.chunk.js.map": "/todolist-react-app/static/js/2.8f7c539e.chunk.js.map",
+    "index.html": "/todolist-react-app/index.html",
+    "precache-manifest.7748735f7ec075341d4decf0f3fbf004.js": "/todolist-react-app/precache-manifest.7748735f7ec075341d4decf0f3fbf004.js",
+    "service-worker.js": "/todolist-react-app/service-worker.js",
+    "static/css/main.a7e224c4.chunk.css.map": "/todolist-react-app/static/css/main.a7e224c4.chunk.css.map",
+    "static/media/logo.svg": "/todolist-react-app/static/media/logo.ee7cd8ed.svg"
   }
 }
